@@ -1,2 +1,3 @@
-# MAIN-PROJECT-AIRLINE-PASSENGER-SATISFACTION-ANALYSIS
+# MAIN PROJECT-AIRLINE PASSENGER SATISFACTION ANALYSIS
 This project analyzes airline passenger satisfaction using data on demographics, flight details, and service ratings. It identifies key factors like flight delays, seat comfort, and inflight service that influence customer experience, helping airlines improve service quality and loyalty.
+The objective is to identify the most significant factors—such as flight delays, seat comfort, and inflight services—that affect the passenger experience, and to provide actionable insights that can help airlines enhance their operations, improve service quality, and strengthen customer loyalty.
